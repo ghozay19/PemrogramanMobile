@@ -1,6 +1,6 @@
 <resources>
-    <string name="app_name">Pradita Mobile</string>
-    <string name="hint">Silahkan diisi bro</string>
+    <string name="app_name">Mobile Apps</string>
+    <string name="hint">Silahkan di isi bro</string>
     <!-- Untuk di MainActivity-->
     <string name="username">Username</string>
     <string name="password">Password</string>
