@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Pradita Mobile</string>
+    <string name="hint">Silahkan diisi bro</string>
+    <!-- Untuk di MainActivity-->
+    <string name="username">Username</string>
+    <string name="password">Password</string>
+    <string name="login">Login</string>
+    <!-- Untuk di Menu Matakuliah-->
+    <string name="kode">Kode Matakuliah</string>
+    <string name="namamk">Nama Matakuliah</string>
+    <!-- Untuk di Menu Mahasiswa-->
+    <string name="nama">Nama</string>
+    <string name="nim">NIM</string>
+    <string name="alamat">Alamat</string>
+    <!-- Untuk di Menu-->
+    <string name="mhs">Mahasiswa</string>
+    <string name="mk">Mata Kuliah</string>
+</resources>
